@@ -1,11 +1,8 @@
 
-  # Github Page Dashboard
+  # CS 132 [WFX] Group 1 Project Site
 
-  This is a code bundle for Github Page Dashboard. The original project is available at https://www.figma.com/design/PiTDDJohVxkh3RkBKzeeH7/Github-Page-Dashboard.
+  ## Gian Carlo Estabillo, EJ Mercado, Gervy Pulumbarit
 
-  ## Running the code
+  This is the Github page for the project *Project Name: Subtitle*. It aims to *project goal*.
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+  This website was made with the help of Figma Make.
