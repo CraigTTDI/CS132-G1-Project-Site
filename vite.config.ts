@@ -20,7 +20,7 @@ export default defineConfig({
   // For GitHub Pages deployment to username.github.io/repo-name, uncomment and set your repo name:
   // base: '/your-repo-name/',
   // For deployment to username.github.io (user/org page), use:
-  base: './',
+  base: './CS132-G1-Project-Site',
 
   plugins: [
     figmaAssetResolver(),
