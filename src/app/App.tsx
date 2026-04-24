@@ -222,7 +222,7 @@ export default function App() {
             </p>
 
             <h3 className="text-xl font-semibold text-white mb-4">Sample Data</h3>
-            <GoogleSheetEmbed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQexample/pubhtml?widget=true&headers=false" />
+            {/* <GoogleSheetEmbed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQexample/pubhtml?widget=true&headers=false" /> */}
           </div>
         </section>
 
@@ -326,11 +326,11 @@ export default function App() {
             </div>
 
             <h3 className="text-xl font-semibold text-white mb-4">Supporting Visuals</h3>
-            <ImageEmbed
+            {/* <ImageEmbed
               src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800"
               alt="Data visualization example"
               caption="Example data visualization showing key metrics"
-            />
+            /> */}
           </div>
         </section>
 
